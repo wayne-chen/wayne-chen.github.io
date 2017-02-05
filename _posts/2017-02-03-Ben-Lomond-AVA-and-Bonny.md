@@ -21,6 +21,10 @@ After our excursion there, we were off to pick up his Dujac wines of 2014 vintag
 
 ### Bonny Doon
 
+![](/images/bonny-ambience.jpg "Ooo large bottle...")
+
+![](/images/bonny-ambience2.jpg "Oooo... pretty bottles")
+
 We then went to our next destination, going down the beautiful Highway 1 while reaching the tasting room of Bonny Doon.  I was pleasantly surprised of the wines they had available to taste, which included some interesting character.  The tasting flight was called Flight of The Cigare that I tried, and all of these wines really spoke to me.  Randall Grahm (the man, the legend) and his dream is an original Rhône Ranger with dabbling in Rhône varieties in California since the inaugural vintage of 1986.  He had attempted to create "The Great American Pinot Noir" previously, but was more successful with the Rhône varieties than that of the Burgundian.  His message of _terroir_ truly speaks out in his way of winemaking.  He's also a dude that's a total fan of screwcaps.  Fun fact: he's also a graduate of UC Davis, with a major in Plant Sciences!
 
 Here are some notes I took from the tasting:
@@ -36,11 +40,15 @@ All of his wines were super approachable. Either because of the power suggestion
 We first started off with a 2011 Le Cigare Blanc, which was a Grenache Blanc/Roussanne blend in a Châteauneuf-du-Pape style from the Southern Rhône.  It was really cool and yummy, with ripe stone fruit character and this savory/nutty quality (probably from being aged in oak and lees stirring!).  This wine was one of the many wines he does that is unfiltered.  He also did malolactic fermentation and 18 months of aging on the lees.  So delicious.  I don't want to sound redundant so I'm just going to say some interesting things other than tasting notes.  The lady pouring for us realized we were really into the wines and that we were enthusiasts so she let us try two different wines as a side-by-side comparison for the 2008 Le Cigare Volant.  The interesting thing was that they actually did taste a little different.  One was aged in _foudre_, which is just a fancy way of saying a large oak barrel, while the other is aged in _demi muid_, which is another fancy phrase for even bigger barrel.  The _foudre_ (100-liter barrel) is less common in Rhône, in contrast with the _demi muid_ (600-liter barrel).  I found that interesting that the same free run wine can be a different end product just on the winemaker's decision on oak vessel size for maturation. 
 
 ![](/images/2008-Le-Cigare-Volant.jpg)
+
 ![](/images/2009-Chequera-Syrah.jpg)
+
 ![](/images/2014-Cinsault-Counoise.jpg)
-![](/images/2014-proper-claret.jpg "Finally, a proper Claret!")
+
+![](/images/2014-proper-claret.jpg "Finally, a proper Claret!" )
 
 Yummy Bonny Doon bottles (with a surprise - A Proper Claret.)
+
 ### Back to Bay-sics
 
 Bay Grape was our end destination since we had palate fatigue... and we wanted to drink rather than taste wine.  So we opened up a bottle of Philippe Pacalet Cornas (surprisingly really approachable, didn't even need to decant!) and I had some Topo Chico to wake up my palate again.  This wine was done with carbonic maceration, but still had this meatiness and peppery taste that reminded me I was still drinking Syrah.  Another thing to note was that it was 13.5% ABV, which is surprisingly low for any Cornas bottle (unless it's a unicorn or older vintage).
