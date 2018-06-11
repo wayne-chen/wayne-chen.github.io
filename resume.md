@@ -7,16 +7,33 @@ permalink: /resume/
 ---
 ## Skills
 
-*Software*: ffmpeg, JUCE, CMake, Boost, Qt, Git, Bash, numpy, scipy
+*Software*: ffmpeg, JUCE, CMake, Boost, Qt, Git, Bash, numpy, scipy, librosa, tensorflow, magenta
 
 *Languages*: C++, C, Python, Matlab, Java, JavaScript, Node.JS, React
 
 *Platforms*: Linux, OS X, Windows
 
+
 ## Experience
+
+**Software Engineer**, High Fidelity Inc.
+
+*May 2018 - Present*
+
+-   Working on client-side to minimize bugs and develop feature improvements
+
+**Software Engineer II**, ON Semiconductor
+
+*July 2016 - May 2018*
+
+-   Developed new software application for internal and external customers
+-   Architected new C++ back-end libraries with a Python front-end UI framework
+-   Constructed an expressive Python API for customers to develop scripts
+-   Used tools for auto-documentation of libraries and API (Doxygen and sphinx-doc)
+
 **Systems Engineer**, ON Semiconductor
 
-*June 2015 - Present*
+*June 2015 - July 2016*
 
 -   Architecting and developing new C++ cross-platform software suite
     for interfacing with next-generation image sensors
@@ -77,4 +94,3 @@ permalink: /resume/
 
 -   Developed unsupervised learning algorithm functionality on facial
     recognition data sets
-

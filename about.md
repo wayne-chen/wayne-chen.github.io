@@ -10,4 +10,5 @@ You can view my resume/CV [here](/resume/) if you're interested in learning abou
 
 You can also read my [blog](/) if you're interested in learning more about what I like to ramble about.
 
-You can reach out to [me](mailto:chen.wayne@outlook.com) if you want to learn even more.
+You can reach out to [me](mailto:chen.wayne@outlook.com) if you want to know more.
+
