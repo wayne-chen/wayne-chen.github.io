@@ -11,7 +11,7 @@ permalink: /resume/
 
 *Languages*: C++, C, Python, Matlab, Java, JavaScript, Node.JS, React
 
-*Platforms*: Linux, OS X, Windows
+*Platforms*: Linux, macOS, Windows
 
 
 ## Experience
